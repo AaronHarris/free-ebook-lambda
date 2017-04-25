@@ -1,0 +1,13 @@
+{
+  "name": "free-ebook",
+  "version": "0.0.1",
+  "description": "Claims the free ebook for your account",
+  "main": "index.js",
+  "author": "AaronHarris",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.3"
+  }
+}
